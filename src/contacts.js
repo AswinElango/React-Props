@@ -1,5 +1,6 @@
 const Contacts = [
   {
+    id: 1,
     name: "Vijay",
     img:
       "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vijay_at_the_Nadigar_Sangam_Protest.jpg",
@@ -8,6 +9,7 @@ const Contacts = [
     mail: "vijay@mail.com"
   },
   {
+    id: 2,
     name: "Ajith",
     img:
       "https://m.media-amazon.com/images/M/MV5BMmZlNDMwMGMtODQ2Ny00NWI3LTg2NjgtNTFmYjA3Y2IzOTlkXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY317_CR74,0,214,317_AL_.jpg",
